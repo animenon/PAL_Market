@@ -1,9 +1,9 @@
 ---
-page_type: PAL Market
-description: "PAL Markets is an app which can be used to predict Closing price for the day of any given stock.."
-languages:
+Project: PAL Market
+Description: "PAL Markets is an app which can be used to predict Closing price for the day of any given stock.."
+Language:
 - python
-products:
+Tools:
 - azure
 - azure-app-service
 - Python
